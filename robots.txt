@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://headboymusic.github.io/sitemap.xml
